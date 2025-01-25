@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.div1{
+    background-color: white;
+    width: 350px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 10px 10px black;
+   
+}
+.img1{
+    width: 350px;
+    border-radius: 20px;
+}
+.p1{
+    background-color: hsl(47, 88%, 63%) ;
+    width: 50px;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.p2{
+    color:  hsl(0, 0%, 42%);
+    width: 300px;
+
+}
+.div10{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 20px;
+}
+.h11{
+   font-size: 20px;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+}
+h6{
+    font-size: 12px;
+}
